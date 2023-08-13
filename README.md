@@ -65,7 +65,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Ex-Software Development Intern @ Nomura | Full Stack Web Developer | B.Tech in CSE @ IIIT Pune. <br/><br/>
+ ✌️ &emsp; Full Stack Web Developer | B.Tech in CSE @ IIIT Pune. <br/><br/>
  ❤️ &emsp; I love learning new technologies and finding out of the box applications for the ones I know <br/><br/>
  📧 &emsp; Reach me anytime: amarendrashendkar@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/SenorLancelot/SenorLancelot/issues)
