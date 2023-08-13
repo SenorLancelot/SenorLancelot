@@ -121,7 +121,12 @@
 <hr/>
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SenorLancelot&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://github.com/SenorLancelot">
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SenorLancelot&theme=dark)](https://git.io/streak-stats)
+  </a>
+</p>
+
 
 <p align="center">
   <a href="https://github.com/SenorLancelot">
