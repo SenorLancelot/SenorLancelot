@@ -108,10 +108,10 @@
 <br/>
 
 ## Top Repositories -
-[![E-Commerce_Backend](https://github-readme-stats.vercel.app/api/pin/?username=SenorLancelot&repo=E-Commerce-Backend&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SenorLancelot/E-Commerce-Backend)
-[![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=SenorLancelot&repo=Portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://amarendrashendkar.tech)
-[![ANT-GAN MRI Translation](https://github-readme-stats.vercel.app/api/pin/?username=SenorLancelot&repo=Abnormal-to-Normal-Brain-MRI-translation-using-Cycle-Consistent-Adversarial-Loss&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SenorLancelot/Abnormal-to-Normal-Brain-MRI-translation-using-Cycle-Consistent-Adversarial-Loss)
-[![LightHouse - Project Management](https://github-readme-stats.vercel.app/api/pin/?username=SenorLancelot&repo=LightHouse&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SenorLancelot/LightHouse)
+[![E-Commerce_Backend](https://github-readme-stats.vercel.app/api/pin/?username=SenorLancelot&repo=E-Commerce-Backend&border_color=006D32&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=006D32)](https://github.com/SenorLancelot/E-Commerce-Backend)
+[![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=SenorLancelot&repo=Portfolio&border_color=006D32&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=006D32)](https://amarendrashendkar.tech)
+[![ANT-GAN MRI Translation](https://github-readme-stats.vercel.app/api/pin/?username=SenorLancelot&repo=Abnormal-to-Normal-Brain-MRI-translation-using-Cycle-Consistent-Adversarial-Loss&border_color=006D32&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=006D32)](https://github.com/SenorLancelot/Abnormal-to-Normal-Brain-MRI-translation-using-Cycle-Consistent-Adversarial-Loss)
+[![LightHouse - Project Management](https://github-readme-stats.vercel.app/api/pin/?username=SenorLancelot&repo=LightHouse&border_color=006D32&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=006D32)](https://github.com/SenorLancelot/LightHouse)
 
 <p align="left">
   <a href="https://github.com/SenorLancelot?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -121,11 +121,7 @@
 <hr/>
 <br/>
 
-<p align="center">
-  <a href="https://github.com/SenorLancelot">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SenorLancelot&theme=radical&border=7F3FBF&background=0D1117" alt="Amarendra's GitHub streak"/>
-  </a>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SenorLancelot&theme=dark)](https://git.io/streak-stats)
 
 <p align="center">
   <a href="https://github.com/SenorLancelot">
@@ -134,8 +130,8 @@
 </p>
 
 <a> 
-    <a href="https://github.com/SenorLancelot"><img alt="Amarendra's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=SenorLancelot&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/SenorLancelot"><img alt="Amarendra's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SenorLancelot&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/SenorLancelot"><img alt="Amarendra's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=SenorLancelot&show_icons=true&count_private=true&theme=react&border_color=006D32&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/SenorLancelot"><img alt="Amarendra's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SenorLancelot&langs_count=8&layout=compact&theme=react&border_color=006D32&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
