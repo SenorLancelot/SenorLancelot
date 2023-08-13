@@ -63,7 +63,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="160" src="giphy.gif" alt="Coding gif" />
   
  ✌️ &emsp; Full Stack Web Developer | B.Tech in CSE @ IIIT Pune. <br/><br/>
  ❤️ &emsp; I love learning new technologies and finding out of the box applications for the ones I know <br/><br/>
