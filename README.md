@@ -122,7 +122,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/SenorLancelot">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=SenorLancelot&theme=dark&type=png&ring=006D32&currStreakLabel=006D32" alt="SenorLancelot's GitHub streak"/>
   </a>
 </p>
