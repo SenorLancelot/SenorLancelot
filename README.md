@@ -111,7 +111,7 @@
 [![E-Commerce_Backend](https://github-readme-stats.vercel.app/api/pin/?username=SenorLancelot&repo=E-Commerce-Backend&border_color=006D32&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=006D32)](https://github.com/SenorLancelot/E-Commerce-Backend)
 [![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=SenorLancelot&repo=Portfolio&border_color=006D32&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=006D32)](https://amarendrashendkar.tech)
 [![ANT-GAN MRI Translation](https://github-readme-stats.vercel.app/api/pin/?username=SenorLancelot&repo=Abnormal-to-Normal-Brain-MRI-translation-using-Cycle-Consistent-Adversarial-Loss&border_color=006D32&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=006D32)](https://github.com/SenorLancelot/Abnormal-to-Normal-Brain-MRI-translation-using-Cycle-Consistent-Adversarial-Loss)
-[![LightHouse - Project Management](https://github-readme-stats.vercel.app/api/pin/?username=SenorLancelot&repo=LightHouse&border_color=006D32&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=006D32)](https://github.com/SenorLancelot/LightHouse)
+[![LightHouse](https://github-readme-stats.vercel.app/api/pin/?username=SenorLancelot&repo=LightHouse&border_color=006D32&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=006D32)](https://github.com/SenorLancelot/LightHouse)
 
 <p align="left">
   <a href="https://github.com/SenorLancelot?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
