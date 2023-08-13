@@ -122,23 +122,23 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/SenorLancelot">
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SenorLancelot&theme=dark)](https://git.io/streak-stats)
+  <a href="https://github.com/alsiam">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=SenorLancelot&theme=dark&type=png&ring=006D32&currStreakLabel=006D32" alt="SenorLancelot's GitHub streak"/>
   </a>
 </p>
 
 
 <p align="center">
   <a href="https://github.com/SenorLancelot">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SenorLancelot&theme=radical" alt="Amarendra's GitHub Contribution"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SenorLancelot&theme=github_dark&title_color=C9D1D9&icon_color=006D32" alt="Amarendra's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/SenorLancelot"><img alt="Amarendra's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=SenorLancelot&show_icons=true&count_private=true&theme=react&border_color=006D32&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/SenorLancelot"><img alt="Amarendra's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SenorLancelot&langs_count=8&layout=compact&theme=react&border_color=006D32&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/SenorLancelot"><img alt="Amarendra's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=SenorLancelot&show_icons=true&count_private=true&theme=github_dark&border_color=006D32&bg_color=0D1117&title_color=C9D1D9&icon_color=006D32" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/SenorLancelot"><img alt="Amarendra's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SenorLancelot&langs_count=8&layout=compact&theme=github_dark&border_color=006D32&bg_color=0D1117&title_color=C9D1D9&icon_color=006D32" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-[![SenorLancelot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SenorLancelot&theme=rogue)](https://github.com/SenorLancelot/github-readme-activity-graph)
+[![SenorLancelot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SenorLancelot&theme=github-compact&area=true)](https://github.com/SenorLancelot/github-readme-activity-graph)
