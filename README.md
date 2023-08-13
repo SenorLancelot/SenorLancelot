@@ -136,7 +136,7 @@
 
 <a> 
     <a href="https://github.com/SenorLancelot"><img alt="Amarendra's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=SenorLancelot&show_icons=true&count_private=true&theme=github_dark&border_color=006D32&bg_color=0D1117&title_color=C9D1D9&icon_color=006D32" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/SenorLancelot"><img alt="Amarendra's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SenorLancelot&langs_count=8&layout=compact&theme=github_dark&border_color=006D32&bg_color=0D1117&title_color=C9D1D9&icon_color=006D32" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/SenorLancelot"><img alt="Amarendra's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SenorLancelot&langs_count=4&layout=compact&theme=github_dark&border_color=006D32&bg_color=0D1117&title_color=C9D1D9&icon_color=006D32" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
