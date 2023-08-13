@@ -140,4 +140,4 @@
 </a>
 
 
-[![SenorLancelot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SenorLancelot00710&theme=rogue)](https://github.com/SenorLancelot00710/github-readme-activity-graph)
+[![SenorLancelot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SenorLancelot&theme=rogue)](https://github.com/SenorLancelot/github-readme-activity-graph)
